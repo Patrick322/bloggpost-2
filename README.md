@@ -26,7 +26,7 @@ This application allowss one to post the blog.
 
 ## livelink
 
-
+https://blogiks.herokuapp.com/
 
 ## Contacts Info
 
