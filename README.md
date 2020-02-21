@@ -18,7 +18,9 @@ This application allows user to register first then login then the user is allow
 1. cloning the repository
     https://github.com/Patrick322/bloggpost-2.git
 
-2. 
+2. Running the application
+
+    ./start.sh or python3.6 manage.py shell.
 
 
 ## Behavior Driven Development (BDD)
