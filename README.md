@@ -22,6 +22,8 @@ This application allowss one to post the blog.
 
 ## codebeat
 
+[![codebeat badge](https://codebeat.co/badges/faabe25f-bc1e-4ed8-9a46-6af6ceda3202)](https://codebeat.co/projects/github-com-patrick322-bloggpost-2-master)
+
 ## livelink
 
 
