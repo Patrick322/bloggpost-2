@@ -22,6 +22,9 @@ This application allows user to register first then login then the user is allow
 
     ./start.sh or python3.6 manage.py shell.
 
+3. Required 
+ you are required to install all the neccessary of flask to run the application
+
 
 ## Behavior Driven Development (BDD)
 * The user is required to register ,the login to the application and then post the blog.
