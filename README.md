@@ -7,8 +7,7 @@ Buong Patrick
 
 ## Description
 
-This application allowss one to post the blog.
-
+This application allows user to register first then login then the user is allowed to post the blog of his/her choice
 
 
 ## Behavior Driven Development (BDD)
