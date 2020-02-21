@@ -10,7 +10,9 @@ Buong Patrick
 This application allows user to register first then login then the user is allowed to post the blog of his/her choice
 
 ## Users Story
-* The use is required to register.
+* The user is required to register.
+* The user is then required to login.
+* Lastly he/she can posts nad view the blogs.
 
 
 ## Behavior Driven Development (BDD)
