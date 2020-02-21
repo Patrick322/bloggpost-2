@@ -14,6 +14,12 @@ This application allows user to register first then login then the user is allow
 * The user is then required to login.
 * Lastly he/she can posts nad view the blogs.
 
+## Development Installation
+1. cloning the repository
+    https://github.com/Patrick322/bloggpost-2.git
+
+2. 
+
 
 ## Behavior Driven Development (BDD)
 * The user is required to register ,the login to the application and then post the blog.
