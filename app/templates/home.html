@@ -15,9 +15,7 @@
   <div class="col-md-6">
     <div class="card mb-3 blog_card shadow-sm  mb-5 bg-white rounded">
       <div class="row no-gutters">
-        <div class="col-sm-4 blog_img"
-          style="background-image:url({{url_for('static', filename='blog_pics/'+post.image_file)}});">
-        </div>
+        
         <div class="col-sm-8">
           <div class="card-body">
             <h5 class="card-title"><a href="{{url_for('posts.post',post_id = post.id)}}">{{post.title}}</a></h5>

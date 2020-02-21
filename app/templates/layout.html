@@ -7,14 +7,14 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
     integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <link rel="stylesheet" href="{{url_for('static', filename = 'main.css')}}">
-  <title>Personal_blog</title>
+  <title>Blogs</title>
 </head>
 
 <body>
   <header class="site-header">
-    <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
+    <nav class="navbar navbar-expand-md navbar-dark bg-info fixed-top">
       <div class="container">
-        <a class="navbar-brand mr-4" href="/">Flask Blog</a>
+        <a class="navbar-brand mr-4" href="/">Blog the trending in the society</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle"
           aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -24,17 +24,17 @@
             <li><a class="nav-item nav-link" href="/">Home</a></li>
             <li><a class="nav-item nav-link" href="/about">About</a></li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+              <!-- <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
                 aria-haspopup="true" aria-expanded="false">
                 Categories
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              </a> -->
+              <!-- <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="{{url_for('main.home')}}">All</a>
                 <a class="dropdown-item" href="{{url_for('main.home', category='tech')}}">Technology</a>
                 <a class="dropdown-item" href="{{url_for('main.home', category='health')}}">Health</a>
                 <a class="dropdown-item" href="{{url_for('main.home', category='environment')}}">Environment</a>
                 <a class="dropdown-item" href="{{url_for('main.home', category='ent')}}">Entertainment</a>
-              </div>
+              </div> -->
             </li>
           </ul>
           <!-- Navbar Right Side -->
